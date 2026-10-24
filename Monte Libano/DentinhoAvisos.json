@@ -1,0 +1,35 @@
+{
+  "avisos": [
+    {
+      "texto": "ATENÇÃO! DOMINGO, 25/10, É A GRANDE FINAL DO GRUPO 6.",
+      "categoria": "Campeonato",
+      "inicio": "2026-10-18",
+      "fim": "2026-10-26"
+    },
+    {
+      "texto": "TEREMOS RODADA DO CAMPEONATO DENTINHO E DENTE DE OURO NORMAL NESSE DOMINGO.",
+      "categoria": "Importante",
+      "inicio": "2026-10-18",
+      "fim": "2026-10-26"
+    },
+    {
+      "texto": "JOGADORES QUE NECESSITAM UTILIZAR ÓCULOS DEVERÃO USAR EXCLUSIVAMENTE ÓCULOS APROPRIADOS PARA A PRÁTICA ESPORTIVA. ÓCULOS DE USO COMUM NÃO SERÃO PERMITIDOS.",
+      "categoria": "Importante",
+      "inicio": "2026-10-18",
+      "fim": "2026-11-15"
+    },
+    {
+      "texto": "EM BREVE ABRIREMOS AS INSCRIÇÕES PARA O PRÓXIMO CAMPEONATO DENTINHO E DENTE DE OURO 1º SEMESTRE 2027... FIQUE LIGADO...",
+      "categoria": "Importante",
+      "inicio": "2026-10-18",
+      "fim": "2026-11-15"
+    },
+
+    {
+      "texto": "CLUBE MONTE LÍBANO - O MELHOR CLUBE DO BRASIL!",
+      "categoria": "Institucional",
+      "inicio": "2026-10-18",
+      "fim": "2026-12-31"
+    }
+  ]
+}
