@@ -1,13 +1,7 @@
 {
   "avisos": [
     {
-      "texto": "ATENÇÃO! DOMINGO, 25/10, É A GRANDE FINAL DO GRUPO 6.",
-      "categoria": "Campeonato",
-      "inicio": "2026-10-18",
-      "fim": "2026-10-26"
-    },
-    {
-      "texto": "TEREMOS RODADA DO CAMPEONATO DENTINHO E DENTE DE OURO NORMAL NESSE DOMINGO.",
+      "texto": "RODADA CANCELADA DEVISO O MAL TEMPO NESTE DOMINGO 25/10/2026.",
       "categoria": "Importante",
       "inicio": "2026-10-18",
       "fim": "2026-10-23"
@@ -24,7 +18,6 @@
       "inicio": "2026-10-18",
       "fim": "2026-11-15"
     },
-
     {
       "texto": "CLUBE MONTE LÍBANO - O MELHOR CLUBE DO BRASIL!",
       "categoria": "Institucional",
