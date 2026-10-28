@@ -1,6 +1,16 @@
 {
   "dentinho": [
     {
+      "id": "mvs76tusvs9m5f",
+      "nome": ">> REGULAMENTO <<",
+      "url": "https://montelibanoriopreto.com.br/regulamento-dentinho/",
+      "ativo": true,
+      "novaAba": false,
+      "inicio": "",
+      "fim": "",
+      "ordem": 1
+    },
+    {
       "id": "mvs6keef4fgvtp",
       "nome": "TABELAS - GRUPO 1",
       "url": "https://montelibanoriopreto.com.br/dentinho-grupo-1/",
@@ -8,7 +18,7 @@
       "novaAba": false,
       "inicio": "",
       "fim": "",
-      "ordem": 1
+      "ordem": 2
     },
     {
       "id": "mvs7350sscrudi",
@@ -18,7 +28,7 @@
       "novaAba": false,
       "inicio": "",
       "fim": "",
-      "ordem": 2
+      "ordem": 3
     },
     {
       "id": "mvs749hgsg7tle",
@@ -28,7 +38,7 @@
       "novaAba": false,
       "inicio": "",
       "fim": "",
-      "ordem": 3
+      "ordem": 4
     },
     {
       "id": "mvs7591gf12p6m",
@@ -38,7 +48,7 @@
       "novaAba": false,
       "inicio": "",
       "fim": "",
-      "ordem": 4
+      "ordem": 5
     },
     {
       "id": "mvs75nis7gvu7s",
@@ -48,7 +58,7 @@
       "novaAba": false,
       "inicio": "",
       "fim": "",
-      "ordem": 5
+      "ordem": 6
     },
     {
       "id": "mvs75w2ktado4d",
@@ -58,7 +68,7 @@
       "novaAba": false,
       "inicio": "",
       "fim": "",
-      "ordem": 6
+      "ordem": 7
     }
   ],
   "denteDeOuro": []
