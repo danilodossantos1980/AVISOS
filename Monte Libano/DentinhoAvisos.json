@@ -23,6 +23,12 @@
       "categoria": "Institucional",
       "inicio": "2026-10-18",
       "fim": "2026-12-31"
+    },
+    {
+      "texto": "testando o aviso do dente de ouro",
+      "categoria": "Dente de Ouro",
+      "inicio": "2026-10-28",
+      "fim": "2026-10-30"
     }
   ]
 }
