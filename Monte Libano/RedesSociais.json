@@ -78,5 +78,83 @@
       "ordem": 11
     }
   ],
-  "DenteDeOuro": []
+  "DenteDeOuro": [
+    {
+      "id": "facebook",
+      "nome": "Facebook",
+      "url": "https://www.facebook.com/cmlriopreto",
+      "ativo": true,
+      "ordem": 1
+    },
+    {
+      "id": "instagram",
+      "nome": "Instagram",
+      "url": "https://instagram.com/montelibanoriopreto",
+      "ativo": true,
+      "ordem": 2
+    },
+    {
+      "id": "youtube",
+      "nome": "YouTube",
+      "url": "https://www.youtube.com/@ClubeMonteLibanoRioPreto-lm1hk/videos",
+      "ativo": true,
+      "ordem": 3
+    },
+    {
+      "id": "whatsapp",
+      "nome": "WhatsApp",
+      "url": "",
+      "ativo": false,
+      "ordem": 4
+    },
+    {
+      "id": "tiktok",
+      "nome": "TikTok",
+      "url": "",
+      "ativo": false,
+      "ordem": 5
+    },
+    {
+      "id": "linkedin",
+      "nome": "LinkedIn",
+      "url": "",
+      "ativo": false,
+      "ordem": 6
+    },
+    {
+      "id": "x",
+      "nome": "X",
+      "url": "",
+      "ativo": false,
+      "ordem": 7
+    },
+    {
+      "id": "threads",
+      "nome": "Threads",
+      "url": "",
+      "ativo": false,
+      "ordem": 8
+    },
+    {
+      "id": "telegram",
+      "nome": "Telegram",
+      "url": "",
+      "ativo": false,
+      "ordem": 9
+    },
+    {
+      "id": "pinterest",
+      "nome": "Pinterest",
+      "url": "",
+      "ativo": false,
+      "ordem": 4
+    },
+    {
+      "id": "site",
+      "nome": "Site oficial",
+      "url": "https://montelibanoriopreto.com.br/",
+      "ativo": true,
+      "ordem": 11
+    }
+  ]
 }
