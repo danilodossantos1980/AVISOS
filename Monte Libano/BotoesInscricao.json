@@ -69,6 +69,26 @@
       "inicio": "",
       "fim": "",
       "ordem": 7
+    },
+    {
+      "id": "mvs7ge991e7vql",
+      "nome": "CONTATO - DENTINHO",
+      "url": "https://montelibanoriopreto.com.br/formulario-dentinho/",
+      "ativo": true,
+      "novaAba": false,
+      "inicio": "",
+      "fim": "",
+      "ordem": 8
+    },
+    {
+      "id": "mvs7h7z9ibdjlm",
+      "nome": "CONTATO - DENTINHO",
+      "url": "https://wa.me/5517991086582",
+      "ativo": true,
+      "novaAba": false,
+      "inicio": "",
+      "fim": "",
+      "ordem": 9
     }
   ],
   "denteDeOuro": []
