@@ -1,10 +1,16 @@
 {
   "avisos": [
     {
-      "texto": "Em razão do cancelamento da rodada do Dentinho no último domingo, dia 25/10/2026, devido às condições climáticas desfavoráveis, foi necessário readequar o calendário da competição. Consulte as tabelas do seu Grupo.",
+      "texto": "INSCRIÇÕES ABRETAS - DENTINHO1º SEMESTRE 2027",
       "categoria": "Dentinho",
-      "inicio": "2026-10-26",
-      "fim": "2026-11-06"
+      "inicio": "2026-10-28",
+      "fim": "2026-12-02"
+    },
+    {
+      "texto": "INSCRIÇÕES ABRETAS - DENTE DE OURO MASCULINO E FEMININO 1º SEMESTRE 2027",
+      "categoria": "Dente de Ouro",
+      "inicio": "2026-10-28",
+      "fim": "2026-12-02"
     },
     {
       "texto": "JOGADORES QUE NECESSITAM UTILIZAR ÓCULOS DEVERÃO USAR EXCLUSIVAMENTE ÓCULOS APROPRIADOS PARA A PRÁTICA ESPORTIVA. ÓCULOS DE USO COMUM NÃO SERÃO PERMITIDOS.",
@@ -13,10 +19,10 @@
       "fim": "2026-11-15"
     },
     {
-      "texto": "EM BREVE ABRIREMOS AS INSCRIÇÕES PARA O PRÓXIMO CAMPEONATO DENTINHO E DENTE DE OURO 1º SEMESTRE 2027... FIQUE LIGADO...",
-      "categoria": "Importante",
-      "inicio": "2026-10-18",
-      "fim": "2026-11-15"
+      "texto": "Em razão do cancelamento da rodada do Dentinho no último domingo, dia 25/10/2026, devido às condições climáticas desfavoráveis, foi necessário readequar o calendário da competição. Consulte as tabelas do seu Grupo.",
+      "categoria": "Dentinho",
+      "inicio": "2026-10-26",
+      "fim": "2026-11-06"
     },
     {
       "texto": "CLUBE MONTE LÍBANO - O MELHOR CLUBE DO BRASIL!",
