@@ -45,8 +45,8 @@
     {
       "id": "x",
       "nome": "X",
-      "url": "https://campeonatos.montelibano.workers.dev/",
-      "ativo": true,
+      "url": "",
+      "ativo": false,
       "ordem": 5
     },
     {
