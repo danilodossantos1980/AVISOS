@@ -1,12 +1,6 @@
 {
   "avisos": [
     {
-      "texto": "⚠️ GRUPO 5 - ALTERAÇÃO DE HORÁRIOS DA RODADA DO DIA 08/11/2026 - CONFIRA TABELA ATUALIZADA NO SITE.",
-      "categoria": "Dentinho",
-      "inicio": "2026-11-03",
-      "fim": "2026-11-09"
-    },
-    {
       "texto": "INSCRIÇÕES ABERTAS PARA O DENTINHO – 1º SEMESTRE DE 2027! INSCREVA-SE ATÉ 01/12/2026 E GARANTA SUA VAGA!  TAXA DE INSCRIÇÃO R$ 140,00.",
       "categoria": "Dentinho",
       "inicio": "2026-10-28",
@@ -19,7 +13,7 @@
       "fim": "2026-12-02"
     },
     {
-      "texto": "🍽️ ALMOÇO DE ENCERRAMENTO DO 70º CAMPEONATO DENTE DE OURO!\n📅 29/11 | Das 12h às 17h 📍 Salão Social\n🎟️ Convites disponíveis até 27/11. Retirada e pagamento exclusivamente presenciais nas secretarias.\n⚠️ Convite de jogador e Representante Técnico é Cortesia e intransferível.\nMais informações: Secretaria Clube de Campo: (17) 99125-9886 | Secretaria Sede: (17) 99224-8822.",
+      "texto": "🍽️ ALMOÇO DE ENCERRAMENTO DO 70º CAMPEONATO DENTE DE OURO!\n📅 29/11 | Das 12h às 17h 📍 Salão Social\n🎟️ Convites disponíveis até 27/11. Retirada e pagamento exclusivamente presenciais nas secretarias.\n⚠️ Convite de jogador e Representante Técnico é Cortesia e intransferível.\nMais informações: [[EMOJI_CLUBE]] Secretaria Clube de Campo: (17) 99125-9886 [[EMOJI_CLUBE]] Secretaria Sede: (17) 99224-8822.",
       "categoria": "Dente de Ouro",
       "inicio": "2026-11-04",
       "fim": "2026-11-27"
