@@ -286,5 +286,13 @@
         "Divas": ""
       }
     }
-  ]
+  ],
+  "edicoes": {
+    "DenteDeOuro": "71",
+    "AnoDenteDeOuro": "2027",
+    "SemestreDenteDeOuro": "1",
+    "Divas": "5",
+    "AnoDivas": "2024",
+    "SemestreDivas": "1"
+  }
 }
