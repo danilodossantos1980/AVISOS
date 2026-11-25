@@ -160,9 +160,9 @@
       "ordem": 4
     },
     {
-      "id": "mwwpy2gqv028xx",
-      "nome": "FINAL DENTE DE OURO - AO VIVO - CAMPO 11 - 10:30",
-      "url": "https://www.youtube.com/live/w2E-Ae7R2MQ?is=joc-yBQ6eB5QhzIt",
+      "id": "mwwq26pcvt7d0m",
+      "nome": "FINAL MAGNOS - AO VIVO",
+      "url": "https://www.youtube.com/live/Cvoewgzwec4?is=W_jJFvxvV_uZWDnk",
       "ativo": true,
       "novaAba": true,
       "inicio": "",
@@ -182,11 +182,11 @@
       "ordem": 6
     },
     {
-      "id": "mwwq26pcvt7d0m",
-      "nome": "FINAL MAGNOS - AO VIVO",
-      "url": "https://www.youtube.com/live/Cvoewgzwec4?is=W_jJFvxvV_uZWDnk",
+      "id": "mwwpy2gqv028xx",
+      "nome": "FINAL DENTE DE OURO - AO VIVO CAMPO 11 - 10:30",
+      "url": "https://www.youtube.com/live/w2E-Ae7R2MQ?is=joc-yBQ6eB5QhzIt",
       "ativo": true,
-      "novaAba": true,
+      "novaAba": false,
       "inicio": "",
       "fim": "",
       "imagem": "",
