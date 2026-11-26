@@ -3,7 +3,7 @@
     {
       "id": "mvsev02pg22vs2",
       "nome": ">> INSCRIÇÕES ABERTAS <<",
-      "url": "https://montelibano.sefcc.com.br/login",
+      "url": "https://montelibanoriopreto.com.br/auth?redirect=%2Fapp",
       "ativo": true,
       "novaAba": false,
       "inicio": "2026-10-28",
@@ -14,12 +14,13 @@
     {
       "id": "mvs76tusvs9m5f",
       "nome": ">> REGULAMENTO <<",
-      "url": "https://montelibanoriopreto.com.br/regulamento-dentinho/",
+      "url": "https://montelibanoriopreto.com.br/__l5e/assets-v1/3d083abd-2013-40f3-b676-f5ee2e026cf0/Regulamento-59o-Dentinho-2026.pdf",
       "ativo": true,
       "novaAba": false,
       "inicio": "",
       "fim": "",
-      "ordem": 2
+      "ordem": 2,
+      "imagem": ""
     },
     {
       "id": "mvsb91xvqn7b91",
@@ -35,62 +36,68 @@
     {
       "id": "mvs6keef4fgvtp",
       "nome": "TABELAS - GRUPO 1",
-      "url": "https://montelibanoriopreto.com.br/dentinho-grupo-1/",
+      "url": "https://montelibanoriopreto.com.br/clubemontelibano/campeonatos/dentinho-grupo-1",
       "ativo": true,
       "novaAba": false,
       "inicio": "",
       "fim": "",
-      "ordem": 4
+      "ordem": 4,
+      "imagem": ""
     },
     {
       "id": "mvs7350sscrudi",
       "nome": "TABELAS - GRUPO 2",
-      "url": "https://montelibanoriopreto.com.br/dentinho-grupo-2/",
+      "url": "https://montelibanoriopreto.com.br/clubemontelibano/campeonatos/dentinho-grupo-2",
       "ativo": true,
       "novaAba": false,
       "inicio": "",
       "fim": "",
-      "ordem": 5
+      "ordem": 5,
+      "imagem": ""
     },
     {
       "id": "mvs749hgsg7tle",
       "nome": "TABELAS - GRUPO 3",
-      "url": "https://montelibanoriopreto.com.br/dentinho-grupo-3/",
+      "url": "https://montelibanoriopreto.com.br/clubemontelibano/campeonatos/dentinho-grupo-3",
       "ativo": true,
       "novaAba": false,
       "inicio": "",
       "fim": "",
-      "ordem": 6
+      "ordem": 6,
+      "imagem": ""
     },
     {
       "id": "mvs7591gf12p6m",
       "nome": "TABELAS - GRUPO 4",
-      "url": "https://montelibanoriopreto.com.br/dentinho-grupo-4/",
+      "url": "https://montelibanoriopreto.com.br/clubemontelibano/campeonatos/dentinho-grupo-4",
       "ativo": true,
       "novaAba": false,
       "inicio": "",
       "fim": "",
-      "ordem": 7
+      "ordem": 7,
+      "imagem": ""
     },
     {
       "id": "mvs75nis7gvu7s",
       "nome": "TABELAS - GRUPO 5",
-      "url": "https://montelibanoriopreto.com.br/dentinho-grupo-5/",
+      "url": "https://montelibanoriopreto.com.br/clubemontelibano/campeonatos/dentinho-grupo-5",
       "ativo": true,
       "novaAba": false,
       "inicio": "",
       "fim": "",
-      "ordem": 8
+      "ordem": 8,
+      "imagem": ""
     },
     {
       "id": "mvs75w2ktado4d",
       "nome": "TABELAS - GRUPO 6",
-      "url": "https://montelibanoriopreto.com.br/dentinho-grupo-6/",
+      "url": "https://montelibanoriopreto.com.br/clubemontelibano/campeonatos/dentinho-grupo-6",
       "ativo": true,
       "novaAba": false,
       "inicio": "",
       "fim": "",
-      "ordem": 9
+      "ordem": 9,
+      "imagem": ""
     },
     {
       "id": "mvs7ge991e7vql",
